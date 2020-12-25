@@ -1,0 +1,94 @@
+/* CSS files add styling rules to your content */
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&family=Shadows+Into+Light&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Candal&family=DM+Sans&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Candal&family=DM+Sans&family=Quicksand&family=Shadows+Into+Light&display=swap');
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0d3b66;
+}
+
+li {
+  float: right;
+}
+li a {
+  padding: 12px 18px;
+  text-align: center;
+  margin-top:0.2em;
+  margin-right:1em;
+  vertical-align:center;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  display: block;
+  font-family: "DM Sans", sans-serif;
+  font-family: "Shadows Into Light", cursive;
+}
+li a: {
+  background-color: #111;
+}
+.myweb {
+  padding: 12px 14px;
+  float: left;
+  text-align: left;
+  color: white;
+  font-size: 25px;
+  font-family: "DM Sans", sans-serif;
+  font-family: "Shadows Into Light", cursive;
+}
+h1{
+font-family: 'Candal', sans-serif;
+font-family: 'DM Sans', sans-serif;
+font-size:400%;
+}
+#intro{
+  display:inline-block;
+  width:60%;
+  margin-left:4em;
+  margin-top:3em;
+}
+#Hi{
+  color:#f95738;
+}
+#contactlast{
+  font-family: 'DM Sans', sans-serif;
+  font-size:150%;
+}
+#medphoto{
+  display:inline-block;
+  width:30%;
+  float:right;
+}
+h2{
+  text-align:center;
+  font-size:250%;
+  color:#0d3b66;
+  
+}
+#whyy{
+  background:#faf0ca;
+}
+#medtext{
+  display:inline-block;
+  width:60%;
+  float:left;
+  padding:14px ;
+  word-spacing:5px;
+  font-size:100%
+}
+#text{
+  font-size:150%;
+  text-align:center;
+  padding:14px ;
+  word-spacing:5px;
+}
+#email{
+  color:blue;
+}
